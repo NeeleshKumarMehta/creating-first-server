@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server",
+  "version": "1.0.0",
+  "description": "first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeeleshKumarMehta/creating-first-server.git"
+  },
+  "author": "Neelesh Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeeleshKumarMehta/creating-first-server/issues"
+  },
+  "homepage": "https://github.com/NeeleshKumarMehta/creating-first-server#readme"
+}
